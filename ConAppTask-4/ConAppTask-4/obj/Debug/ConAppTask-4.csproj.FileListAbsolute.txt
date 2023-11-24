@@ -1,0 +1,7 @@
+C:\DOT NET\Day 15\BasicCSharpAssignment\ConAppTask-4\ConAppTask-4\bin\Debug\ConAppTask-4.exe.config
+C:\DOT NET\Day 15\BasicCSharpAssignment\ConAppTask-4\ConAppTask-4\bin\Debug\ConAppTask-4.exe
+C:\DOT NET\Day 15\BasicCSharpAssignment\ConAppTask-4\ConAppTask-4\bin\Debug\ConAppTask-4.pdb
+C:\DOT NET\Day 15\BasicCSharpAssignment\ConAppTask-4\ConAppTask-4\obj\Debug\ConAppTask-4.csproj.AssemblyReference.cache
+C:\DOT NET\Day 15\BasicCSharpAssignment\ConAppTask-4\ConAppTask-4\obj\Debug\ConAppTask-4.csproj.CoreCompileInputs.cache
+C:\DOT NET\Day 15\BasicCSharpAssignment\ConAppTask-4\ConAppTask-4\obj\Debug\ConAppTask-4.exe
+C:\DOT NET\Day 15\BasicCSharpAssignment\ConAppTask-4\ConAppTask-4\obj\Debug\ConAppTask-4.pdb
